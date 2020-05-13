@@ -1,0 +1,245 @@
+/*About theme*/
+.appearance_page_vw_event_planner_guide{
+	background: #fff;
+    font-family: 'Muli', sans-serif;
+}
+.wrapper-info {
+    margin-top: 20px;
+}
+.col-left{
+	width: 65%;
+	float: left;
+}
+.col-right {
+    width: 30%;
+    float: right;
+    padding: 5px;
+    margin: 0px 20px;
+    background: #eee;
+    border: solid 1px #ddd;
+}
+.wrapper-info h2 {
+    color: #004c75;
+    font-size: 28px;
+    margin: 15px 0;
+    font-weight: bold;
+}
+span.version {
+    font-size: 15px;
+    color: #333;
+}
+.logo {
+    margin: 5px 0;
+}
+.col-left p {
+    font-size: 20px;
+    color: #333;
+}
+
+
+/*Tab Button*/
+.tab button {
+    border: solid 1px #bbb;
+    padding: 15px;
+    background: #eee;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px;
+    cursor: pointer;
+}
+hr.h3hr {
+    width: 10%;
+    border-top: 2px solid;
+    margin: 0;
+}
+.tab-sec h3 {
+    color: #004c75;
+    font-size: 25px;
+    margin: 35px 0 10px;
+}
+.tab-sec p {
+    font-size: 16px;
+    color: #333;
+}
+.col-right-inner h3{
+    margin-top: 0;
+}
+.col-right-inner {
+    width: 60%;
+    float: right;
+    padding: 0 20px;
+}
+.col-left-inner {
+    width: 36%;
+    float: left;
+}
+.col-right-inner img {
+    width: 100%;
+    box-shadow: 0 0 15px 1px #bbb;
+}
+.col-left-inner h4,
+.update-now h4,
+.col-3 h4 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+.update-now span {
+    color: red;
+    font-size: 23px;
+}
+.update-now h4{
+    text-align: center;
+    color: #004c75;
+    margin: 8px 0 0 0;
+    font-weight: 800;
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+.col-left-inner p {
+    font-size: 14px;
+    margin: 8px 0;
+}
+.info-link a,
+.col-left-pro a {
+    background: #004c75;
+    padding: 8px 15px;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 3px;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+.info-link a:hover,
+.col-left-pro a:hover,
+td.update-link:hover{
+    background: #0771ab;
+}
+.info-link {
+    margin: 20px 0;
+}
+.col-right .info-link,
+.logo{
+    text-align: center;
+}
+button.tablinks:focus {
+    outline: none;
+}
+button.tablinks.active {
+    border-bottom: solid 4px #004c75;
+}
+.table-image {
+    padding: 20px;
+}
+.col-left-pro {
+    width: 40%;
+    float: left;
+}
+.col-right-pro {
+    width: 55%;
+    float: right;
+    padding: 15px;
+}
+.pro-links {
+    margin: 3em 0;
+}
+.pro-links a {
+    margin-right: 8px;
+    padding: 10px 15px;    
+}
+.tabcontent {
+    display: none;
+}
+.open {
+    display: block ;
+}
+.tab-sec,
+.featurebox {
+    width: 100%;
+    float: left;
+}
+.col-left-pro p {
+    margin-top: 25px;
+}
+.innerbox {
+    margin: 30px 0;
+}
+/*Table CSS*/
+
+.tablebox td {
+    padding: 15px 10px;
+    font-size: 18px;
+    color: #000;
+    border: solid 1px #ddd;
+}
+td.table-img {
+    text-align: center;
+}
+tr.odd {
+    background: #eee;
+}
+.tablebox th {
+    padding: 15px;
+    background: #eee;
+    color: #000;
+    font-size: 20px;
+    border: solid 1px #ddd;
+}
+table.tablebox {
+    border: solid 1px #ddd;
+    padding: 2px;
+    width: 100%;
+}
+td.update-link {
+    background: rgb(111, 168, 27);
+    font-size: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+td.update-link a {
+    color: #fff;    
+    text-decoration: none;
+}
+
+/*Support CSS*/
+
+.col-3 {
+    width: 28%;
+    float: left;
+    padding: 10px;
+    border: solid 1px #ddd;
+    margin: 25px 10px;
+}
+#free_pro .dashicons {
+    margin-right: 5px;
+}
+
+
+.row-box1 {
+    float: left;
+    width: 52%;
+}
+.first-row {
+    border: 1px solid #ddd;
+    margin: 15px 0;
+    background: #f5f5f5;
+}
+.row-box {
+    border-bottom: 1px solid #ddd;
+    padding: 15px 8px;
+    font-size: 14px;
+}
+.row-box span {
+    margin-right: 8px;
+    color: #000;
+}
+.row-box a {
+    text-decoration: none;
+}
+/*welcome */
+.welcome-notice h3 {
+    margin: 0;
+    padding-top: 5px;
+}
